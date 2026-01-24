@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Portfolio_Best_4/static/css/main.58462fbc.css",
+    "main.js": "/Portfolio_Best_4/static/js/main.3ab8a5a1.js",
+    "static/media/u-said-it-v13-1167.mp3": "/Portfolio_Best_4/static/media/u-said-it-v13-1167.becd66496be9c81ddf9d.mp3",
+    "static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg": "/Portfolio_Best_4/static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014fb6ce5980110.jpg",
+    "static/media/spaceman.png": "/Portfolio_Best_4/static/media/spaceman.5ec7fcfa9a803ead726c.png",
+    "static/media/profile-img.png": "/Portfolio_Best_4/static/media/profile-img.5179e446ac1a570ce69b.png",
+    "index.html": "/Portfolio_Best_4/index.html",
+    "main.58462fbc.css.map": "/Portfolio_Best_4/static/css/main.58462fbc.css.map",
+    "main.3ab8a5a1.js.map": "/Portfolio_Best_4/static/js/main.3ab8a5a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58462fbc.css",
+    "static/js/main.3ab8a5a1.js"
+  ]
+}
