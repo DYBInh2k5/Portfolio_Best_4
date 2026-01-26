@@ -2,6 +2,8 @@
 
 > Personal portfolio website showcasing AI/ML projects and full-stack development skills
 
+https://bucolic-jalebi-269383.netlify.app/
+
 ## 🌟 Features
 
 - Interactive Animations with Framer Motion
