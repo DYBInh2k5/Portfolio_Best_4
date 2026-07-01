@@ -1,8 +1,8 @@
-# Build a Stunning Portfolio with React JS using Styled-Components and framer-motion for awesome Animations
+# coDY Portfolio
 
-![GitHub stars](https://img.shields.io/github/stars/codebucks27/react-portfolio-final?style=social&logo=ApacheSpark&label=Stars&maxAge=2592000)&nbsp;&nbsp;
-![GitHub forks](https://img.shields.io/github/forks/codebucks27/react-portfolio-final?style=social&logo=KashFlow)&nbsp;&nbsp;
-![Github Followers](https://img.shields.io/github/followers/codebucks27.svg?style=social&label=Follow&maxAge=2592000)&nbsp;&nbsp;<br />
+![GitHub stars](https://img.shields.io/github/stars/DYBInh2k5/Portfolio_Best_4?style=social&logo=ApacheSpark&label=Stars&maxAge=2592000)&nbsp;&nbsp;
+![GitHub forks](https://img.shields.io/github/forks/DYBInh2k5/Portfolio_Best_4?style=social&logo=KashFlow)&nbsp;&nbsp;
+![Github Followers](https://img.shields.io/github/followers/DYBInh2k5.svg?style=social&label=Follow&maxAge=2592000)&nbsp;&nbsp;<br />
 
 This repository contains Final code for The Portfolio Website in ReactJS. <br />
 
@@ -18,7 +18,7 @@ https://youtu.be/jcohAIaSy2M <br />
 
 ---
 
-[⚠⚠⚠ If you want full code of this website then you can get it from here👇: <br />]::
+[⚠⚠⚠ If you want full code of this website then you can get it from here👇: <br />]
 
 You'll get code files which contans code for responsive portfolio website with
 all the animations showed in the demo.
@@ -35,12 +35,12 @@ You might see some differences in implementation such as,
 
 ### Images of The Portfolio Website:
 
-![HOME](https://github.com/codebucks27/React-Portfolio-starter-code-files/blob/main/Portfolio%20Images/Home.png)
-![Intro](https://github.com/codebucks27/React-Portfolio-starter-code-files/blob/main/Portfolio%20Images/Intro.png)
-![Blog](https://github.com/codebucks27/React-Portfolio-starter-code-files/blob/main/Portfolio%20Images/Blog.png)
-![Home Mobile](https://github.com/codebucks27/React-Portfolio-starter-code-files/blob/main/Portfolio%20Images/Home-Mobile.png)
-![Intro Mobile](https://github.com/codebucks27/React-Portfolio-starter-code-files/blob/main/Portfolio%20Images/Intro-Mobile.png)
-![Intro Blog](https://github.com/codebucks27/React-Portfolio-starter-code-files/blob/main/Portfolio%20Images/Blog-Mobile.png)
+![HOME](https://github.com/DYBInh2k5/Portfolio_Best_4/blob/main/Portfolio%20Images/Home.png)
+![Intro](https://github.com/DYBInh2k5/Portfolio_Best_4/blob/main/Portfolio%20Images/Intro.png)
+![Blog](https://github.com/DYBInh2k5/Portfolio_Best_4/blob/main/Portfolio%20Images/Blog.png)
+![Home Mobile](https://github.com/DYBInh2k5/Portfolio_Best_4/blob/main/Portfolio%20Images/Home-Mobile.png)
+![Intro Mobile](https://github.com/DYBInh2k5/Portfolio_Best_4/blob/main/Portfolio%20Images/Intro-Mobile.png)
+![Intro Blog](https://github.com/DYBInh2k5/Portfolio_Best_4/blob/main/Portfolio%20Images/Blog-Mobile.png)
 
 ### Resources Used in This Project
 

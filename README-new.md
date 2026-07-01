@@ -16,7 +16,7 @@ https://bucolic-jalebi-269383.netlify.app/
 
 - React 18, Styled Components, Framer Motion
 - React Router v6, React TSParticles
-- Deployed on Vercel
+- Deployed on GitHub Pages
 
 ## 🚀 Quick Start
 
