@@ -23,7 +23,7 @@ export const Blogs = [
         tags:["aws","docker","cloud","devops"],
         date:"5 Jan, 2026",
         imgSrc:"https://images.unsplash.com/photo-1667372393119-3d4c48d07fc9?w=800&h=400&fit=crop",
-        link:"https://github.com/binhvo20055-cloud"
+        link:"https://github.com/DYBInh2k5"
     },
     {
         id:4,

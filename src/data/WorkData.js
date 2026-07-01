@@ -44,8 +44,8 @@ export const Work = [
         description:"Enterprise-level cloud solutions built with AWS and Azure, featuring scalable microservices and automated deployment pipelines.",
         tags:["aws","azure","docker","kubernetes","terraform"],
         
-        demo:"https://github.com/binhvo20055-cloud",
-        github:"https://github.com/binhvo20055-cloud"
+        demo:"https://github.com/DYBInh2k5",
+        github:"https://github.com/DYBInh2k5"
         
     },
     {
